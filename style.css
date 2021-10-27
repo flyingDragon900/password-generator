@@ -65,9 +65,3 @@ input[type="text"] {
   background-color: rgb(37, 37, 165);
 }
 
-@media (min-width: 0px) and (max-width: 375px) {
-  .container {
-    min-height: 100vh;
-    width: 100%;
-  }
-}
